@@ -1,4 +1,4 @@
-# mykhacha
+# MyKharcha
 
 A new Flutter project.
 
