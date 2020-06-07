@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [image](imagesForGitHub/3.jpeg)
+![image](imagesForGitHub/3.jpeg)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
